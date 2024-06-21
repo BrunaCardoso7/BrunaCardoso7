@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Eu estou atualmente trabalhando no projeto **Moonkey**.
+- 🔭 Eu estou atualmente trabalhando no projeto **Like Delivery**.
 
 - 🌱 Estou atualmente estudando **Next.js, Nest.js, Docker**
 
