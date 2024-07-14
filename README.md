@@ -6,11 +6,11 @@
 
 
 
-- 🔭 Eu estou atualmente atuando como Front End no projeto **Like Delivery**.
+- 🔭 Eu estou atualmente atuando como Front End no projeto [Like Delivery](https://likedeliverydev.onrender.com/)).
 
 - 🌱 Estou atualmente estudando **Next.js, Nest.js, Docker**
 
-- 👯 Estou colaborando atualmente no repositório [WhyApp](https://github.com/bear-system-dev/whyapp-frontend)
+- 👯 Estou colaborando atualmente no repositório [Like-delivery-frontend](https://github.com/bear-system-dev/whyapp-frontend](https://github.com/bear-system-dev/like-delivery-frontend/tree/dev))
 
 - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
 
