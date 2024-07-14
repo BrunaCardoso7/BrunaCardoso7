@@ -1,7 +1,7 @@
 
 <img alt="Coding" width="100%" height="400" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
 
-<h1 align="center">Olá 👋, me chamo Bruna Fernandes</h1>
+<h1 align="center">Olá 👋, me chamo Bruna</h1>
 <h3 align="center">Sou Desenvolvedora de Sistema Full Stack</h3>
 
 
