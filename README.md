@@ -10,7 +10,7 @@
 
 - 🌱 Estou atualmente estudando **Next.js, Nest.js, Docker**
 
-- 👯 Estou colaborando atualmente no repositório [Like-delivery-frontend](https://github.com/bear-system-dev/whyapp-frontend](https://github.com/bear-system-dev/like-delivery-frontend/tree/dev)
+- 👯 Estou colaborando atualmente no repositório [Lik -delivery frontend](https://github.com/bear-system-dev/whyapp-frontendhttps://github.com/bear-system-dev/like-delivery-frontend/tree/dev)
 
 - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
 
@@ -18,14 +18,7 @@
 
 - ⚡ Fatos Engraçados **Gosto de debater sozinha enquanto faço códigos, geralmente esses debates são em inglês que não é dos melhores mas eu me entendo**
 
-<h3 align="left">conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bruna-cardoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruna-cardoso" height="30" width="40" /></a>
-<a href="https://instagram.com/bruninha_motoplayrj45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bruninha_motoplayrj45" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-  <h3 align="left">Linguagens:</h3>
+<h3 align="left">Linguagens:</h3>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
