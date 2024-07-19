@@ -11,7 +11,7 @@
 
 - 🌱 Estou atualmente estudando **Next.js, Nest.js, Docker**
 
-- 👯 Estou colaborando atualmente no repositório [Like-delivery frontend](https://github.com/bear-system-dev/whyapp-frontendhttps://github.com/bear-system-dev/like-delivery-frontend/tree/dev)
+- 👯 Estou colaborando atualmente no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
 
 - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
 
