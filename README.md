@@ -6,7 +6,7 @@
 
 
 -  Repositórios atualmente parados pois estou contribuindo em outros projetos.
-- 
+
 - 🔭 Eu estou atualmente atuando como Front End no projeto [Like Delivery](https://likedeliverydev.onrender.com/).
 
 - 🌱 Estou atualmente estudando **Next.js, Nest.js, Docker**
