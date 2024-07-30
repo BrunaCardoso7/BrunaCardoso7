@@ -14,10 +14,15 @@
 
 <div width="60%" height="100%" align="start" style="border: none !important; margin: auto !important;" >
 -  Repositórios atualmente parados pois estou contribuindo em outros projetos
+  
 - 🔭 Eu estou atualmente atuando como Front End no projeto [Like Delivery](https://likedeliverydev.onrender.com/).
+  
 - 🌱 Estou atualmente estudando **JAVA, Spring Booot, Docker**
+  
 - 👯 Estou colaborando atualmente no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
+  
 - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
+
 - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
 
 - ⚡ Fatos Engraçados **Gosto de debater sozinha enquanto faço códigos, </br> geralmente esses debates são em inglês que não é dos melhores mas eu me entendo**
