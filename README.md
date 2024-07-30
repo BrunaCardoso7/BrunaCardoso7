@@ -1,12 +1,15 @@
-<div style="display: flex; align-items: center; flex-direction: row;">
-  <div>
-    <img alt="Coding" width="40%" height="200" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
-  </div>
-  <div style="margin-left: 20px;">
-    <h1>Olá 👋, me chamo Bruna</h1>
-    <h3>Sou Desenvolvedora de Sistema Full Stack</h3>
-  </div>
-</div>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img alt="Coding" width="100%" height="200" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <h1>Olá 👋, me chamo Bruna</h1>
+      <h3>Sou Desenvolvedora de Sistema Full Stack</h3>
+    </td>
+  </tr>
+</table>
+
 
 
 -  Repositórios atualmente parados pois estou contribuindo em outros projetos.
