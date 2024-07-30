@@ -1,15 +1,9 @@
 <div width="100%" height="100%" align="center">
-<table width="100%" style="border: none !important; margin: auto !important;">
-  <tr style="border: none !important;">
-    <td style="border: none !important; vertical-align: middle !important;">
-      <h1>Olá 👋, me chamo Bruna</h1>
-      <h3>Sou Desenvolvedora de Sistema Full Stack</h3>
-    </td>
-    <td style="border: none !important;">
-      <img alt="Coding" width="100%" height="200" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
-    </td>
-  </tr>
-</table>
+<p>
+  <img alt="Coding" width="40%" height="200" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif" style="float: left; margin-right: 20px;">
+  <h1>Olá 👋, me chamo Bruna</h1>
+  <h3>Sou Desenvolvedora de Sistema Full Stack</h3>
+</p>
 
 
 <div width="60%" height="100%" align="start" style="border: none !important; margin: 100px !important;" >
