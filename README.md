@@ -12,7 +12,7 @@
 </table>
 
 
-<div width="60%" height="100%" align="start" style="border: none !important; margin: auto !important;" >
+<div width="60%" height="100%" align="start" style="border: none !important; margin: 100px !important;" >
 -  Repositórios atualmente parados pois estou contribuindo em outros projetos
   
 - 🔭 Eu estou atualmente atuando como Front End no projeto [Like Delivery](https://likedeliverydev.onrender.com/).
