@@ -25,8 +25,9 @@
 
 - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
 
-- ⚡ Fatos Engraçados **Gosto de debater sozinha enquanto faço códigos, geralmente esses debates são em inglês que não é dos melhores mas eu me entendo**
+- ⚡ Fatos Engraçados **Gosto de debater sozinha enquanto faço códigos, </br> geralmente esses debates são em inglês que não é dos melhores mas eu me entendo**
 <div/>
+  
 <h3 align="left">Linguagens:</h3>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
