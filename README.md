@@ -1,10 +1,12 @@
-<p align="left">
-  <img alt="Coding" width="40%" height="200" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
-</p>
-<p align="right">
-  <h1 align="center">Olá 👋, me chamo Bruna</h1>
-  <h3 align="center">Sou Desenvolvedora de Sistema Full Stack</h3>
-</p>
+<div style="display: flex; align-items: center;">
+  <div>
+    <img alt="Coding" width="40%" height="200" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif">
+  </div>
+  <div style="margin-left: 20px;">
+    <h1>Olá 👋, me chamo Bruna</h1>
+    <h3>Sou Desenvolvedora de Sistema Full Stack</h3>
+  </div>
+</div>
 
 
 -  Repositórios atualmente parados pois estou contribuindo em outros projetos.
