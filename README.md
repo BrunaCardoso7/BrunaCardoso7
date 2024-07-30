@@ -1,3 +1,4 @@
+<div width="100%" height="100%" align="center">
 <table width="100%" style="border: none !important; margin: auto !important;">
   <tr style="border: none !important;">
     <td style="border: none !important; vertical-align: middle !important;">
@@ -37,4 +38,4 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
 
-
+<div/>
