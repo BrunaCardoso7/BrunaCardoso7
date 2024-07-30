@@ -1,4 +1,4 @@
-<table style="border: none !important; margin: auto !important;">
+<table width="100%" style="border: none !important; margin: auto !important;">
   <tr style="border: none !important;">
     <td style="border: none !important; vertical-align: middle !important;">
       <h1>Olá 👋, me chamo Bruna</h1>
