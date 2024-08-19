@@ -18,7 +18,7 @@
     
   - 🔭 Eu estou atualmente atuando como Front End no projeto [Like Delivery](https://likedeliverydev.onrender.com/).
     
-  - 🌱 Estou atualmente estudando **JAVA, Spring Booot, Docker**
+  - 🌱 Estou atualmente estudando **Nest, GraphQL, TypeORM**
     
   - 👯 Estou colaborando atualmente no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
     
