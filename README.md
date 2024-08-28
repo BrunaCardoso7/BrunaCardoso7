@@ -15,8 +15,7 @@
  <div align="top"  width="40%" height="200" >
   <img alt="Coding" width="40%" height="200" align="right" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif" />
   <span align="left">
-    
-  - 🔭 Eu estou atualmente atuando como Front End no time de desenvolvimento Bear System, prototipando e construindo experiência de usuário em diversos cenários com React e outras tecnologias.
+ Eu estou atualmente atuando como Front End no time de desenvolvimento Bear System, prototipando e construindo experiência de usuário em diversos cenários com React e outras tecnologias🔭.
     
   - 🌱 Estou atualmente estudando **Nest, GraphQL, TypeORM**
     
