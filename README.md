@@ -11,11 +11,15 @@
 
 
 
+ 
 
  <div align="top"  width="40%" height="200" >
   <img alt="Coding" width="40%" height="200" align="right" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif" />
   <span align="left">
-Colaboro como <b>Front End</b> no Repositório do time de desenvolvimento <b>Bear System</b>, prototipando e construindo experiência de usuário em diversos cenários com <b>React</b> e outras tecnologias, também possuo uma boa experiência em desenvolvimento <b>Back End<b/> construindo <b>API's RestFull e Graphql<b/> com <b>Node js</b>🔭.
+
+    
+Sou apaixonada por tudo que envolve programação, no <b>Back End</b> desenvolvo <b>API's RestFull e Graphql</b> com <b>Node js</b> e <b>Nest js</b> 🌩️ focando em performance e escalabilidade de funcilonalidades. Além disso, Colaboro como <b>Front End</b> no Repositório do time de desenvolvimento <b>Bear System</b>, prototipando e construindo experiência de usuário em diversos cenários com <b>React</b> e outras tecnologias🔭.
+
 
     
   - 🌱 Estou atualmente estudando **Nest, GraphQL, TypeORM**
@@ -34,6 +38,7 @@ Colaboro como <b>Front End</b> no Repositório do time de desenvolvimento <b>Bea
 
 
 
+ 
 <div align="bottom"  width="100%" height="200" >
   <span align="left">
     <h3 align="left">Linguagens:</h3>
@@ -50,3 +55,5 @@ Colaboro como <b>Front End</b> no Repositório do time de desenvolvimento <b>Bea
     <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
   </span>
 </div>
+
+ <h3 align="center">Gostaria de convida-los a explorar um pouco de meus projetos, não esqueça de deixar a estrelinha nos repositórios😉</h3>
