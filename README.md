@@ -15,7 +15,7 @@
  <div align="top"  width="40%" height="200" >
   <img alt="Coding" width="40%" height="200" align="right" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif" />
   <span align="left">
-Atuando no momento como <b>Front End</b> no time de desenvolvimento <b>Bear System</b>, prototipando e construindo experiência de usuário em diversos cenários com <b>React</b> e outras tecnologias🔭.
+Atuando no momento como <b>Front End</b> no time de desenvolvimento <b>Bear System</b>, prototipando e construindo experiência de usuário em diversos cenários com <b>React</b> e outras tecnologias, também possuo uma boa experiência desenvolvendo API's RestFull e Graphql com Node js🔭.
     
   - 🌱 Estou atualmente estudando **Nest, GraphQL, TypeORM**
     
