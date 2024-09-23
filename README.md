@@ -1,9 +1,10 @@
 
 <div align="top"  width="40%" height="200" >
   <span>
-    <h1>Olá 👋😊, me chamo Bruna!</h1>
-    <h3>Sou Desenvolvedora de Sistema Full Stack</h3>
+    <h1 align="center">Olá 👋😊, me chamo Bruna!</h1>
+    <h3 align="center">Sou Desenvolvedora de Sistema Full Stack</h3>
   </span>
+  <br>
 </div>
 
 
