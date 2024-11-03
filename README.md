@@ -18,23 +18,19 @@
   <img alt="Coding" width="40%" height="200" align="right" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif" />
   <span align="left">
 
-    
-Sou apaixonada por tudo que envolve programação, no <b>Back End</b> desenvolvo <b>API's RestFull e Graphql</b> com <b>Node js</b> e <b>Nest js</b> 🌩️ focando em performance e escalabilidade de funcilonalidades. Além disso, Colaboro como <b>Front End</b> no Repositório do time de desenvolvimento <b>Bear System</b>, prototipando e construindo experiência de usuário em diversos cenários com <b>React</b> e outras tecnologias🔭.
+
 
 
     
   - 🌱 Estou atualmente estudando **Nest, GraphQL, TypeORM**
     
-  - 👯 Estou colaborando atualmente no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
+  - 👯 Estou colaborando como front end no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
     
   - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
   
   - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
   
 
-    </span>
- </div>
-⚡ Fatos Engraçados <b>Gosto de debater sozinha enquanto faço códigos, </br> geralmente esses debates são em inglês que não é dos melhores mas eu me entendo</b>
 
 
 
@@ -57,4 +53,4 @@ Sou apaixonada por tudo que envolve programação, no <b>Back End</b> desenvolvo
   </span>
 </div>
 
- <h3 align="center">Gostaria de convida-los a explorar um pouco de meus projetos, não esqueça de deixar a estrelinha nos repositórios😉</h3>
+
