@@ -22,10 +22,12 @@
 
 
     
-  - 🌱 Estou atualmente estudando **Nest, GraphQL, TypeORM**
+  - 🌱 Estou atualmente estudando **Python, Django, Django_rest_framework**
     
-  - 👯 Estou colaborando como front end no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
-    
+  - 👯 Estou colaborando como front end com React no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
+
+  - 👯 Desenvolvendo aplicativo Mobile de denúcias com React Native [Vivido](https://github.com/bear-system-dev)
+
   - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
   
   - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
@@ -41,7 +43,13 @@
     <h3 align="left">Linguagens:</h3>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="java" width="48" height="48"/> </a>
+  </span>
+  <span align="left">
+    <h3 align="left">Frameworks:</h3>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/proxy/Nswz8KFhqyEROl-sdraD-t7RiXcToUSa7hB4hjC_lHPtd6ZTbLkJUhZ-MqsudqFwQ5cO5CdyAc8WX87w1ZJl" alt="Django" width="40"       height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"           alt="React" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="Nest" width="48" height="48"/> </a>
   </span>
   <span align="right">
     <h3 align="left">Ferramentas:</h3>
