@@ -24,9 +24,9 @@
     
   - 🌱 Estou atualmente estudando **Python, Django, Django_rest_framework**
     
-  - 👯 Estou colaborando como front end com React no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
+  - 👯 Colaborando como front end com React no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
 
-  - 👯 Desenvolvendo aplicativo Mobile de denúcias com React Native [Vivido](https://github.com/bear-system-dev)
+  - 🎯 Desenvolvendo aplicativo Mobile de denúcias com React Native [Vivido](https://github.com/bear-system-dev)
 
   - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
   
