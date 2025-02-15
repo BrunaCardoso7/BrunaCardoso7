@@ -22,12 +22,16 @@
 
 
     
-  - 🌱 Estou atualmente estudando **Python, Django, Django_rest_framework**
+
     
-  - 👯 Colaborando como front end com React no repositório [Like-delivery frontend](https://github.com/bear-system-dev)
-
+  - 👯 Colaborando como Desenvolvedora Backend em projeto de startup de chatbot,
+    lidando com funcionalidades de:
+    -  Automações de **Web Scrapping** utilizando **Selenium**;
+    -  Análise e tratamento de dados utilizando **Pandas** e **Python**;
+    -  Criação e manutenção de **API Restful**  com **Fastapi**.
+      
+  - 🌱 Estou atualmente estudando **Python, flutter, Fastapi**
   - 🎯 Desenvolvendo aplicativo Mobile de denúcias com React Native [Vivido](https://github.com/bear-system-dev)
-
   - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
   
   - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
