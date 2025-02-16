@@ -9,6 +9,13 @@
 
 
 
+<div>
+    <td width="70%">
+      <a href="https://github.com/BrunaCardoso7">
+        <img src="https://github-readme-stats.vercel.app/api?username=BrunaCardoso7&show_icons=true&theme=dark" alt="Bruna's GitHub stats" width="100%"/>
+      </a>
+    </td>
+</div>
 
 
 
@@ -17,8 +24,6 @@
  <div align="top"  width="40%" height="200" >
   <img alt="Coding" width="40%" height="200" align="right" src="https://i.pinimg.com/originals/e8/f3/8e/e8f38e2b7a8d3a395e95b77c324fe6e5.gif" />
   <span align="left">
-
-
 
 
     
@@ -35,20 +40,7 @@
   
   - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
 
-<table cellpadding="10">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/BrunaCardoso7">
-        <img src="https://github-readme-stats.vercel.app/api?username=BrunaCardoso7&show_icons=true&theme=dark" alt="Bruna's GitHub stats" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/BrunaCardoso7">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCardoso7&theme=dark&layout=compact" alt="Top Langs" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <div align="bottom"  width="100%" height="200" >
   <span align="left">
