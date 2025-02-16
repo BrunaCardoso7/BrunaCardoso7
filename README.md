@@ -9,15 +9,6 @@
 
 
 
-<div>
-    <td width="70%">
-      <a href="https://github.com/BrunaCardoso7">
-        <img src="https://github-readme-stats.vercel.app/api?username=BrunaCardoso7&show_icons=true&theme=dark" alt="Bruna's GitHub stats" width="100%"/>
-      </a>
-    </td>
-</div>
-
-
 
  
 
@@ -39,6 +30,16 @@
   - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
   
   - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
+
+
+
+<div marginTop="20%">
+    <td width="70%">
+      <a href="https://github.com/BrunaCardoso7">
+        <img src="https://github-readme-stats.vercel.app/api?username=BrunaCardoso7&show_icons=true&theme=dark" alt="Bruna's GitHub stats" width="100%"/>
+      </a>
+    </td>
+</div>
 
 
 
