@@ -38,6 +38,9 @@
 
 
 
+[![devkaio's GitHub stats](https://github-readme-stats-devkaio.vercel.app/api?username=BrunaCardoso7&show_icons=true&theme=dark)](https://github.com/BrunaCardoso7)
+
+[![Top Langs](https://github-readme-stats-devkaio.vercel.app/api/top-langs/?username=BrunaCardoso7&theme=dark&layout=compact)](https://github.com/BrunaCardoso7)
 
 
  
