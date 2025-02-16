@@ -34,16 +34,22 @@
   - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
   
   - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
-  
 
+<table cellpadding="10">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/BrunaCardoso7">
+        <img src="https://github-readme-stats.vercel.app/api?username=BrunaCardoso7&show_icons=true&theme=dark" alt="Bruna's GitHub stats" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/BrunaCardoso7">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaCardoso7&theme=dark&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-[![Bruna's GitHub stats](https://github-readme-stats-devkaio.vercel.app/api?username=BrunaCardoso7&show_icons=true&theme=dark)]([https://github.com/BrunaCardoso7))
-
-[![Top Langs](https://github-readme-stats-devkaio.vercel.app/api/top-langs/?username=BrunaCardoso7&theme=dark&layout=compact)](https://github.com/BrunaCardoso7)
-
-
- 
 <div align="bottom"  width="100%" height="200" >
   <span align="left">
     <h3 align="left">Linguagens:</h3>
