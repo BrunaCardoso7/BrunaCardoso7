@@ -31,7 +31,6 @@
     -  Criação e manutenção de **API Restful**  com **Fastapi**.
       
   - 🌱 Estou atualmente estudando **Python, flutter, Fastapi**
-  - 🎯 Desenvolvendo aplicativo Mobile de denúcias com React Native [Vivido](https://github.com/bear-system-dev)
   - 💬 Pergunte-me sobre **React, Node.js, SQL, Express**
   
   - 📫 Como chegar até mim **brunafernandes8596@gmail.com**
